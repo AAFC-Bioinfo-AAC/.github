@@ -1,0 +1,10 @@
+# AAFC-Bioinfo-AAC
+
+The ***AAFC-Bioinfo-AAC*** GitHub organization, managed by ***AAFC Science Solutions and Innovation (SSI)*** centre, was launched as a core deliverable of the ***AAFC Bioinformatics Code Catalogue (ABCC)*** project led by the ***Bioinformatics Research Support Network (BRSN)*** of [Agriculture and Agri-Food Canada (AAFC)](https://agriculture.canada.ca/en). The ABCC project aims to:
+- provide a centralized platform for version-controlled code, computational pipelines, and analytical resources
+- promote standardized code development practices
+- facilitate code reuse and transparency in accordance with Government of Canada guidances on [Open-source code publication](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html) and [FAIR-aligned practices](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/information-management/guidance-assessing-readiness-manage-data-according-findable-accessible-interoperable-reusable-principles.html).
+
+🌐🔓 A curated list of published repositories is available at: [AAFC Bioinformatics Code Catalogue](https://github.com/AAFC-Bioinfo-AAC/ABCC-RCBA-Catalogue). To initiate collaboration, open a GitHub issue in the relevant repository.
+
+🛡️🔒 **AAFC staff** may request the creation of new repositories or related services by submitting a ticket via the ***My IT Centre TI*** application under category: ***Science IT Support > Science Code Catalogue***. For internal collaboration, a complete list of all active repositories, both public and private, is available [here]() (***Access limited to AAFC network***).
