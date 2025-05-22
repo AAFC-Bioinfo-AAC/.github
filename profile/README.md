@@ -7,7 +7,7 @@ The ***AAFC-Bioinfo-AAC*** GitHub organization, managed by ***AAFC Science Solut
 
 🌐🔓 A curated list of published repositories is available at: [AAFC Bioinformatics Code Catalogue](https://github.com/AAFC-Bioinfo-AAC/ABCC-RCBA-Catalogue). To initiate collaboration, open a GitHub issue in the relevant repository.
 
-🛡️🔒 **AAFC personnel** may request the creation of new repositories or related services by submitting a ticket via the ***MyITCentreTI*** application under category: ***Science IT Support > Science Code Catalogue***. For internal collaboration, a complete list of all active repositories, both public and private, is provided with [**access limited to AAFC network**](https://gitlab.science.gc.ca/aafc-bioinfo-aac/ABCC-all-repos/-/blob/main/README.md).
+🛡️🔒 **AAFC personnel** may request the creation of new repositories or related services by submitting a ticket via the ***MyITCentreTI*** application under category: ***Science IT Support > Science Code Catalogue***. A list of all active public and private repositories is accessible [**internally within the AAFC network**](https://gitlab.science.gc.ca/aafc-bioinfo-aac/ABCC-all-repos/-/blob/main/README.md).
 
 ---
 
@@ -18,4 +18,4 @@ L'organisation GitHub ***AAC-Bioinfo-AAC***, gérée par le ***Centre des soluti
   
 🌐🔓 Une liste organisée des dépôts publiés est disponible à l'adresse: [Répertoire de Codes Bioinformatique d'AAC](https://github.com/AAFC-Bioinfo-AAC/ABCC-published-repos). Pour amorcer une collaboration, ouvrez un ticket GitHub dans le dépôt concerné.
 
-🛡️🔒 **Le personnel d'AAC** peut demander la création de nouveaux dépôts ou de services connexes en soumettant un ticket via l'application **MyITCentreTI**, sous la catégorie: ***ScienceITSupport > ScienceCodeCatalogue***. Pour la collaboration interne, une liste complète de tous les dépôts actifs, publics et privés, est fournie, avec un [**accès limité au réseau d'AAC**](https://gitlab.science.gc.ca/aafc-bioinfo-aac/ABCC-all-repos/-/blob/main/README.md).
+🛡️🔒 **Le personnel d'AAC** peut demander la création de nouveaux dépôts ou de services connexes en soumettant un ticket via l'application **MyITCentreTI**, sous la catégorie: ***ScienceITSupport > ScienceCodeCatalogue***. Une liste de tous les dépôts publics et privés actifs est [**accessible en interne au sein du réseau de l'AAFC**](https://gitlab.science.gc.ca/aafc-bioinfo-aac/ABCC-all-repos/-/blob/main/README.md).
