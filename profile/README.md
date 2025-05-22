@@ -7,7 +7,7 @@ The ***AAFC-Bioinfo-AAC*** GitHub organization, managed by ***AAFC Science Solut
 
 🌐🔓 A curated list of published repositories is available at: [AAFC Bioinformatics Code Catalogue](https://github.com/AAFC-Bioinfo-AAC/ABCC-RCBA-Catalogue). To initiate collaboration, open a GitHub issue in the relevant repository.
 
-🛡️🔒 **AAFC personnel** may request the creation of new repositories or related services by submitting a ticket via the ***MyITCentreTI*** application under category: ***Science IT Support > Science Code Catalogue***. A list of all active public and private repositories is accessible [**internally within the AAFC network**](https://gitlab.science.gc.ca/aafc-bioinfo-aac/ABCC-all-repos/-/blob/main/README.md).
+🛡️🔒 **AAFC personnel** may request the creation of new repositories or related services by submitting a ticket via the ***MyITCentreTI*** application under category: ***Science IT Support > Science Code Catalogue***. A list of all active public and private repositories is [**accessible internally within the AAFC network**](https://gitlab.science.gc.ca/aafc-bioinfo-aac/ABCC-all-repos/-/blob/main/README.md).
 
 ---
 
