@@ -7,7 +7,7 @@ The ***AAFC-Bioinfo-AAC*** GitHub organization, managed by ***AAFC Science Solut
 
 🌐🔓 A curated list of published repositories is available at: [AAFC Bioinformatics Code Catalogue](https://github.com/AAFC-Bioinfo-AAC/ABCC-RCBA-Catalogue). To initiate collaboration, open a GitHub issue in the relevant repository.
 
-🛡️🔒 **AAFC personnel** may request the creation of new repositories or related services by submitting a ticket via the ***MyITCentreTI*** application under category: ***Science IT Support > Science Code Catalogue***. A list of all active public and private repositories is [**accessible internally within the AAFC network**](https://gitlab.science.gc.ca/aafc-bioinfo-aac/ABCC-all-repos/-/blob/main/README.md).
+🛡️🔒 **AAFC personnel** may request the creation of new repositories or related services by submitting a ticket via the ***MyITCentreTI*** application under category: ***Science IT Support > Science Code Catalogue***. A list of all active private repositories under development is [**accessible internally within the AAFC network**](https://001gc.sharepoint.com/:b:/r/sites/42732/asd1/ABCC/List%20of%20private%20repos.pdf?csf=1&web=1&e=UutYd5).
 
 ---
 
@@ -18,4 +18,4 @@ Le compte d'organisation GitHub ***AAC-Bioinfo-AAC***, géré par ***Solutions s
   
 🌐🔓 Une liste des dépôts publiés est disponible à l'adresse: [Répertoire de Codes Bioinformatique d'AAC](https://github.com/AAFC-Bioinfo-AAC/ABCC-published-repos). Pour amorcer une collaboration, ouvrez un billet (issue) GitHub dans le dépôt concerné.
 
-🛡️🔒 **Le personnel d'AAC** peut demander la création de nouveaux dépôts ou de services connexes en soumettant un billet via l'application **MyITCentreTI**, sous la catégorie: ***Support informatique scientifique > Science Code Catalogue***. Une liste de tous les dépôts publics et privés actifs est [**accessible au sein du réseau interne d'AAC**](https://gitlab.science.gc.ca/aafc-bioinfo-aac/ABCC-all-repos/-/blob/main/README.md).
+🛡️🔒 **Le personnel d'AAC** peut demander la création de nouveaux dépôts ou de services connexes en soumettant un billet via l'application **MyITCentreTI**, sous la catégorie: ***Support informatique scientifique > Science Code Catalogue***. Une liste de tous les dépôts privés actifs en cours de développement est [**accessible au sein du réseau interne d'AAC**](https://001gc.sharepoint.com/:b:/r/sites/42732/asd1/ABCC/List%20of%20private%20repos.pdf?csf=1&web=1&e=UutYd5).
