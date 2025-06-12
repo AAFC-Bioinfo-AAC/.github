@@ -1,6 +1,6 @@
 # The AAFC-Bioinfo-AAC Github organisation
 
-[(**Français**)](#l-organisation-github-aafc-bioinfo-aac)
+[(**Français**)](#lorganisation-github-aafc-bioinfo-aac)
 
 Welcome! We encourage AAFC scientists, bioinformaticians, analysts, and developers to contribute bioinformatics code and reproducible pipelines to the ***AAFC-Bioinfo-AAC*** GitHub organization. **AAFC personnel** may request the creation of new repositories or related services by submitting a ticket via the ***MyITCentreTI*** application under category: ***Science IT Support > Science Code Catalogue***. This [Quickstart guide](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide) will help you get started with repository creation, contribution, and publication.
 
