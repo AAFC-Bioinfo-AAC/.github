@@ -2,18 +2,21 @@
 
 [(**Français**)](#lorganisation-github-aafc-bioinfo-aac)
 
-Welcome! We encourage AAFC scientists, bioinformaticians, analysts, and developers to contribute bioinformatics code and reproducible pipelines to the ***AAFC-Bioinfo-AAC*** GitHub organization. **AAFC personnel** may request the creation of new repositories or related services by submitting a ticket via the ***MyITCentreTI*** application under category: ***Science IT Support > Science Code Catalogue***. This [Quickstart guide](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide) will help you get started with repository creation, contribution, and publication.
+Welcome to `AAFC-Bioinfo-AAC`, a central repository for reproducible bioinformatics code and pipelines, published following AAFC-endorsed guidelines and processes:
+- 🌐 Public Repositories  
+[Browse the full catalogue](https://github.com/search?q=org:AAFC-Bioinfo-AAC+is:public+-topic:do-not-catalogue&type=repositories)
+- 🛡️ Active Private Repositories (internal access only)  
+[View the private repo catalogue](https://001gc.sharepoint.com/:u:/r/sites/42732/SitePages/abcc-private-repos.aspx)
 
-🌐🔓 A curated list of published repositories is available at: [AAFC Bioinformatics Code Catalogue](https://github.com/AAFC-Bioinfo-AAC/ABCC-RCBA-Catalogue). To initiate collaboration, open a GitHub issue in the relevant repository.
+All AAFC staff are encouraged to use/contribute to this central GitHub organization. Refer [Quickstart guide](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide) for details. 
 
-🛡️🔒  A list of all active private repositories is [**accessible internally within the AAFC network**](https://001gc.sharepoint.com/:u:/r/sites/42732/SitePages/abcc-private-repos.aspx?csf=1&web=1&e=jXxrXb).
+## About
 
----
-
-> ℹ️ The ***AAFC-Bioinfo-AAC*** GitHub organization, managed by ***AAFC Science Solutions and Innovation (SSI)*** centre, was launched as a core deliverable of the ***AAFC Bioinformatics Code Catalogue (ABCC)*** project led by the ***Bioinformatics Research Support Network (BRSN)*** of [Agriculture and Agri-Food Canada (AAFC)](https://agriculture.canada.ca/en). The ABCC project aims to:
->- provide a centralized platform for version-controlled code, computational pipelines, and analytical resources;
->- promote standardized code development practices;
->- facilitate code reuse and transparency in accordance with Government of Canada guidances on [Open-source code publication](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html) and [FAIR-aligned practices](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/information-management/guidance-assessing-readiness-manage-data-according-findable-accessible-interoperable-reusable-principles.html).
+The `AAFC-Bioinfo-AAC` GitHub organization, managed by `AAFC Science Solutions and Innovation (SSI)` and led by members of the `Bioinformatics Research Support Network (BRSN)` of [Agriculture and Agri-Food Canada (AAFC)](https://agriculture.canada.ca/en), was launched as a core deliverable of the [AAFC Bioinformatics Code Catalogue (ABCC) project](https://001gc.sharepoint.com/sites/42732/SitePages/AAFC-Bioinformatics-Code-Catalogue_R%C3%A9pertoire-de-codes-Bioinformatique-d'AAC.aspx) (*internal access only*) with the following objectives:
+- to provide a centralized platform for version-controlled code, computational pipelines, and analytical resources;
+- to promote standardized code development practices;
+- to facilitate code reuse and transparency in accordance with Government of Canada guidances on [Open-source code publication](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html) and [FAIR-aligned practices](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/information-management/guidance-assessing-readiness-manage-data-according-findable-accessible-interoperable-reusable-principles.html);
+- to simplify the code publication process.
 
 ---
 
