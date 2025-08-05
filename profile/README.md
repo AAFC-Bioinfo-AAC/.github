@@ -1,4 +1,4 @@
-# The AAFC-Bioinfo-AAC Github organisation
+# The `AAFC-Bioinfo-AAC` Github organisation
 
 [(**Français**)](#lorganisation-github-aafc-bioinfo-aac)
 
@@ -20,7 +20,7 @@ The `AAFC-Bioinfo-AAC` GitHub organization, managed by `AAFC Science Solutions a
 
 ---
 
-# L’organisation GitHub AAFC-Bioinfo-AAC
+# L’organisation GitHub `AAFC-Bioinfo-AAC`
 
 [(English)](#the-aafc-bioinfo-aac-github-organisation)
 
