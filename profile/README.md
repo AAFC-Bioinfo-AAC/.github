@@ -23,7 +23,7 @@ The `AAFC-Bioinfo-AAC` GitHub organization, managed by AAFC's `Science Solutions
 
 # L’organisation GitHub `AAFC-Bioinfo-AAC`
 
-[(English)](#the-aafc-bioinfo-aac-github-organisation)
+[(**English**)](#the-aafc-bioinfo-aac-github-organisation)
 
 Bienvenue dans `AAFC-Bioinfo-AAC`, un dépôt central de code et de pipelines bioinformatiques reproductibles publiés par le personnel d'[Agriculture et Agroalimentaire Canada (AAC)](https://agriculture.canada.ca/fr) conformément aux lignes directrices et aux processus approuvés par d’AAC:
 
