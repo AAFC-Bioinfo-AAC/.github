@@ -2,7 +2,7 @@
 
 [(**Français**)](#lorganisation-github-aafc-bioinfo-aac)
 
-Welcome to `AAFC-Bioinfo-AAC`, a central repository for reproducible bioinformatics code and pipelines published by AAFC staff following AAFC-endorsed guidelines and processes:
+Welcome to `AAFC-Bioinfo-AAC`, a central repository for reproducible bioinformatics code and pipelines published by [Agriculture and Agri-Food Canada (AAFC)](https://agriculture.canada.ca/en) staff following AAFC-endorsed guidelines and processes:
 
 - 🌐 [AAFC Bioinformatics Code Catalogue (ABCC)](https://github.com/search?q=org:AAFC-Bioinfo-AAC+is:public+-topic:do-not-catalogue&type=repositories): Browse the full catalogue of published code repositories.
 
@@ -12,7 +12,7 @@ The [Quickstart guide](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide) pr
 
 ## About
 
-The `AAFC-Bioinfo-AAC` GitHub organization, managed by `AAFC Science Solutions and Innovation (SSI)`, was launched as a core deliverable of the [AAFC Bioinformatics Code Catalogue (ABCC) project](https://001gc.sharepoint.com/:u:/r/sites/42732/SitePages/AAFC-Bioinformatics-Code-Catalogue_R%C3%A9pertoire-de-codes-Bioinformatique-d%27AAC.aspx) (*internal access only*), led by members of the `Bioinformatics Research Support Network (BRSN)` of [Agriculture and Agri-Food Canada (AAFC)](https://agriculture.canada.ca/en), with the following objectives:
+The `AAFC-Bioinfo-AAC` GitHub organization, managed by AAFC's `Science Solutions and Innovation (SSI)`, was launched as a core deliverable of the [AAFC Bioinformatics Code Catalogue (ABCC) project](https://001gc.sharepoint.com/:u:/r/sites/42732/SitePages/AAFC-Bioinformatics-Code-Catalogue_R%C3%A9pertoire-de-codes-Bioinformatique-d%27AAC.aspx) (*internal access only*), led by members of AAFC's `Bioinformatics Research Support Network (BRSN)`, with the following objectives:
 
 - to provide a centralized platform for version-controlled code, computational pipelines, and analytical resources;
 - to promote standardized code development practices;
@@ -25,7 +25,7 @@ The `AAFC-Bioinfo-AAC` GitHub organization, managed by `AAFC Science Solutions a
 
 [(English)](#the-aafc-bioinfo-aac-github-organisation)
 
-Bienvenue dans `AAFC-Bioinfo-AAC`, un dépôt central de code et de pipelines bioinformatiques reproductibles publiés par le personnel de l’AAC conformément aux lignes directrices et aux processus approuvés par l’AAC:
+Bienvenue dans `AAFC-Bioinfo-AAC`, un dépôt central de code et de pipelines bioinformatiques reproductibles publiés par le personnel d'[Agriculture et Agroalimentaire Canada (AAC)](https://agriculture.canada.ca/fr) conformément aux lignes directrices et aux processus approuvés par d’AAC:
 
 - 🌐 [Répertoire de Codes Bioinformatique d'AAC (RCBA)](https://github.com/search?q=org:AAFC-Bioinfo-AAC+is:public+-topic:do-not-catalogue&type=repositories): Parcourez le catalogue complet des dépôts de code publiés.
 
@@ -35,7 +35,7 @@ Le [Guide de démarrage rapide](https://github.com/AAFC-Bioinfo-AAC/quick-start-
 
 ## À propos
 
-Le compte d’organisation GitHub `AAFC-Bioinfo-AAC`, géré par `Solutions scientifiques et innovation (SSI) d'AAC`, a été lancé en tant que livrable principal du projet de [Répertoire de Codes Bioinformatique d'AAC (RCBA)](https://001gc.sharepoint.com/:u:/r/sites/42732/SitePages/AAFC-Bioinformatics-Code-Catalogue_R%C3%A9pertoire-de-codes-Bioinformatique-d%27AAC.aspx) (*accès interne uniquement*), dirigé par des membres du `Réseau de Soutien à la Recherche en Bioinformatique (RSRB)` d'[Agriculture et Agroalimentaire Canada (AAC)](https://agriculture.canada.ca/fr) avec les objectifs suivants:
+Le compte d’organisation GitHub `AAFC-Bioinfo-AAC`, géré par `Solutions scientifiques et innovation (SSI)` d'AAC, a été lancé en tant que livrable principal du projet de [Répertoire de Codes Bioinformatique d'AAC (RCBA)](https://001gc.sharepoint.com/:u:/r/sites/42732/SitePages/AAFC-Bioinformatics-Code-Catalogue_R%C3%A9pertoire-de-codes-Bioinformatique-d%27AAC.aspx) (*accès interne uniquement*), dirigé par des membres du `Réseau de Soutien à la Recherche en Bioinformatique (RSRB)` d'AAC avec les objectifs suivants:
 
 - fournir une plateforme centralisée pour le code à version contrôlée, de pipelines informatiques et de ressources analytiques;
 - promouvoir des pratiques normalisées de développement de code;
