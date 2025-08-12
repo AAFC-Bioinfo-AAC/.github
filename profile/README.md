@@ -1,5 +1,5 @@
-[(**Français**)](#aafc-bioinfo-aac-fr)
-# AAFC-Bioinfo-AAC (EN) 
+[(**Français**)](#aafc-bioinfo-aac-1)
+# AAFC-Bioinfo-AAC 
 **AAFC’s Hub for Reproducible Bioinformatics Code & Pipelines**  
 
 ---
@@ -44,8 +44,8 @@ By sharing and using bioinformatics code and pipelines through `AAFC-Bioinfo-AAC
 Your contributions will not only benefit AAFC researchers but also reinforce Canada’s commitment to open science and innovation.
 
 ---
-[(**English**)](#aafc-bioinfo-aac-en)
-# AAFC-Bioinfo-AAC (FR)
+[(**English**)](#aafc-bioinfo-aac)
+# AAFC-Bioinfo-AAC
 **Le centre d’AAC pour le code et les pipelines bioinformatiques reproductibles** 
 
 ---
