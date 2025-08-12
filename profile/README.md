@@ -21,7 +21,7 @@ All repositories published here follow AAFC-endorsed guidelines and Government o
 
 ---
 
-## What We Aim to Achieve
+## What we aim to achieve
 
 The `AAFC-Bioinfo-AAC` GitHub organization account, managed by AAFC's `Science Solutions and Innovation (SSI)`, was launched as a key deliverable of the 
 `AAFC Bioinformatics Code Catalogue (ABCC)` project, led by members of AAFC's `Bioinformatics Research Support Network (BRSN)`. The project aims to:
