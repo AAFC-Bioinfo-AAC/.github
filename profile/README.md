@@ -24,13 +24,13 @@ All repositories published here follow AAFC-endorsed guidelines and Government o
 ## What We Aim to Achieve
 
 The `AAFC-Bioinfo-AAC` GitHub organization account, managed by AAFC's `Science Solutions and Innovation (SSI)`, was launched as a key deliverable of the 
-`AAFC Bioinformatics Code Catalogue (ABCC)` project, led by members of AAFC's `Bioinformatics Research Support Network (BRSN)`. The project's objectives include:
+`AAFC Bioinformatics Code Catalogue (ABCC)` project, led by members of AAFC's `Bioinformatics Research Support Network (BRSN)`. The project aims to:
 
-- to provide a centralized platform for version-controlled code, computational pipelines, and analytical resources;
-- to promote standardized code development practices;
-- to facilitate code reuse and transparency in accordance with Government of Canada guidances on [Open-source code publication](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html)
+- provide a centralized platform for version-controlled code, computational pipelines, and analytical resources;
+- promote standardized code development practices;
+- facilitate code reuse and transparency in accordance with Government of Canada guidances on [Open-source code publication](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html)
   and [FAIR-aligned practices](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/information-management/guidance-assessing-readiness-manage-data-according-findable-accessible-interoperable-reusable-principles.html);
-- to simplify and streamline the code publication process.
+- simplify and streamline the code publication process.
 
 ## Why AAFC staff should use and contribute to `AAFC-Bioinfo-AAC`?
 
@@ -70,7 +70,7 @@ Tous les dépôts publiés ici respectent les lignes directrices approuvées par
 ## Ce que nous visons à accomplir
 
 Le compte d’organisation GitHub `AAFC-Bioinfo-AAC`, géré par `Solutions scientifiques et innovation (SSI)` d'AAC, a été lancé en tant que livrable principal du projet de 
-`Répertoire de Codes Bioinformatique d'AAC (RCBA)`, dirigé par des membres du `Réseau de Soutien à la Recherche en Bioinformatique (RSRB)` d'AAC. Les objectifs du projet comprennent:
+`Répertoire de Codes Bioinformatique d'AAC (RCBA)`, dirigé par des membres du `Réseau de Soutien à la Recherche en Bioinformatique (RSRB)` d'AAC. Le projet vise à:
 
 - fournir une plateforme centralisée pour le code à version contrôlée, de pipelines informatiques et de ressources analytiques;
 - promouvoir des pratiques normalisées de développement de code;
