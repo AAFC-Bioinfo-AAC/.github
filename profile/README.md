@@ -11,7 +11,7 @@ All repositories published here follow AAFC-endorsed guidelines and Government o
 
 ### Quick Links
 
-- [AAFC Bioinformatics Code Catalogue (ABCC)](https://github.com/search?q=org:AAFC-Bioinfo-AAC+is:public+-topic:do-not-catalogue&type=repositories): browse all published repositories. 
+- [Code catalogue](https://github.com/search?q=org:AAFC-Bioinfo-AAC+is:public+-topic:do-not-catalogue&type=repositories): browse all published code repositories. 
 - [Quickstart guide](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide): learn how to use and contribute to `AAFC-Bioinfo-AAC`.  
 
 ### Contact
@@ -57,8 +57,8 @@ Tous les dépôts publiés ici respectent les lignes directrices approuvées par
 
 ### Liens rapides
 
-- [Répertoire de Codes Bioinformatique d'AAC (RCBA)](https://github.com/search?q=org:AAFC-Bioinfo-AAC+is:public+-topic:do-not-catalogue&type=repositories): parcourez tous les dépôts publiés.
-- [Guide de démarrage rapide](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide/blob/main/README_FR.md): Apprenez à utiliser et à contribuer à `AAFC-Bioinfo-AAC`.
+- [Répertoire de codes](https://github.com/search?q=org:AAFC-Bioinfo-AAC+is:public+-topic:do-not-catalogue&type=repositories): parcourir tous les dépôts de code publiés.
+- [Guide de démarrage rapide](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide/blob/main/README_FR.md): apprenez à utiliser et à contribuer à `AAFC-Bioinfo-AAC`.
 
 ### Contact
 
