@@ -62,8 +62,8 @@ Tous les dépôts publiés ici respectent les lignes directrices approuvées par
 
 ### Contact
 
-- **Questions générales**: envoyez un courriel au [RSRB](mailto:aafc.bioinfosupport.aac@agr.gc.ca) avec l’objet: `AAFC-Bioinfo-AAC: <résumé>`
-- **Signaler des problèmes de sécurité**: envoyez un courriel au [BICoE](mailto:aafc.bice-ceib.aac@agr.gc.ca). 🚫 Ne publiez pas d’informations sensibles publiquement.
+- **Questions générales**: envoyez un courriel au [RSRB](mailto:aafc.bioinfosupport.aac@agr.gc.ca) avec l’objet: `AAFC-Bioinfo-AAC: <sommaire>`
+- **Signaler un problème de sécurité**: envoyez un courriel au [BICoE](mailto:aafc.bice-ceib.aac@agr.gc.ca). 🚫 Ne publiez pas d’informations sensibles publiquement.
 
 ---
 
